@@ -1,0 +1,202 @@
+微信公众号：ios黑科技
+整理分享
+官方网站：s7aa.cn
+
+基础依赖源 
+PreferenceLoader、RocketBootStrap、AppList
+http://rpetri.ch/repo
+Cephei
+http://repo.packix.com
+libcspreferences
+https://creaturecoding.com/repo
+
+必装插件:
+AppSync Unified----关闭签名验证
+AntiRevoke----去除企业证书
+Liberty----屏蔽越狱检测
+CyDown----cydia和斑马二合一下载工具
+Flex 3 beta----程序修改器
+Supercharge----程序修改器
+Filza----文件管理器
+OTADisabler----屏蔽系统自动更新
+PanCake----快速回到上一页
+ReProvision----自签工具(建议只签越狱工具本身)
+
+选择安装:
+PullToRespring----注销(设置界面.下拉自动注销)
+WeChatCallkit----微信视频和语音快捷接听
+PullOVer Pro----侧边分屏
+MilkyWay----快捷分屏
+AudioRecorder XS----通话录音
+ConditionalWiFi4----网络限制
+GoodWiFi----无线信息(可查看登录过的WIFI密码)
+Prysm Beta 4----控制中心自定义
+DLEasy Cracked-----应用内视频和图片下载(适用于国外的APP)
+AppStore++----应用降级
+iAP26----内购破解
+IconRenamer----改名(长按.等抖动再双击)
+Anywhere----虚拟定位
+iCleaner Pro----系统清理
+CrackeXI+----砸壳工具
+Cracktool4----收费应用破解插件
+Choicy----禁止注入
+Shadow----屏蔽越狱
+killX----后台清理(下拉关闭所有卡片后台)(不要用killx pro)
+KillMyApps----自动关闭后台应用(有设置界面)
+ShowTouch录屏红点----红点显示录屏轨迹
+StoreSwitcher 2----苹果商店帐号快速切换
+Pro助手----集成各应用破解
+QQ 净化----QQ插件
+WeChat 净化----微信插件
+NSFWgram----解锁封禁群(Telegram和TelegramX)
+Sylph----锁屏迷你播放器
+NFCWrite XS----NFC(近场通讯)功能(仅支持6S及其以上机型)
+BackgrounderAction for CC----真实后台
+TinyBanners 2----通知横幅
+
+特殊插件:
+FLEXible(Flex3调试工具.查找函数)
+FixFrozen(全设备.防冻屏.没啥用)
+Cr4shed(目录/var/tmp/crash_logs)(定位崩溃插件名称)
+crashreporter(定位崩溃插件名称)
+
+越狱后Cydia没网怎么解决:
+在 App Store 下载 iCareFone 软件，打开软件的全局广告拦截功能(状态栏出现VPN图标代表开启成功)
+然后打开 Cydia，搜索「连个锤子」并安装，安装完成后打开连个锤子点击里面的修复按钮，重新打开Cydia即可以了
+
+小白装下面这些源基本上够用了。
+http://apt.dddjb.cn 知网少年源
+https://apt.margua.top 小麻瓜源
+https://apt.cydia.bi Bi源(搞机源)
+https://apt.coolstar.xyz Alice源
+http://repo.cydiabc.top 小苹果源
+http://h.933k.cn 嗨客汉化源
+https://repo.netskao.cn 哥哥源 
+https://ibreak.yourepo.com 小姐姐源 
+https://yttxcs.com 壹筒天下源 
+http://apt.ambier.cn 野心源 
+http://apt.ss03.cn 艾锋源
+http://apt.cydiaba.cn 贴吧源
+http://apt.xbsite.cn 知网小白源 
+http://apt.25mao.com 老猫微信源
+https://lenglengyu.yourepo.com 冷冷雨源 
+http://apt.htv123.com 电话助手作者源 
+http://apt.thebigboss.org/repofiles/cydia 大老板源必装 国外源需挂v 
+http://repo.incendo.ws 手机端自签证书作者源 
+https://pulandres.me/repo/ 国外p老作者源 
+https://dada.yourepo.com 骚达美化源 
+https://soda-ldz.yourepo.com 苏达微信美化源 
+http://tigisoftware.com/cydia/ 文件管理器Filza作者源 
+https://c1d3r.com/repo 分屏作者源 
+http://getdelta.co （Flex3作者源） 
+http://ib-soft.net/cydia （iCleaner pro作者源） 
+http://rpetri.ch/repo 依赖更新最快 国外源需挂v 
+https://opa334.github.io/beta （Safari Plus作者源） 
+http://akusio.github.io/ 多任务分屏多窗口作者源 
+http://sutuplus.github.io/repo 苏兔美化源 
+https://ryleyangus.com/repo 屏蔽越狱检测Liberty lite作者源 
+https://opa334.github.io 多功能自带浏览器增强safari作者源 
+http://repo.nepeta.me 屏蔽越狱检测unsub作者源 
+http://cydia.akemi.ai 越狱状态无视证书掉签appsync unifed作者源 
+https://repo.chariz.io 必装自带源 
+
+温馨提醒：三大盗版源大家别去装，容易出问题！！！蚂蚁源，蜜蜂源，cydiaKK源。 
+劫持依赖源勿装：雷锋源，多米诺骨牌源，App越狱插件推送。 
+垃圾源勿装：刀疤木源 在此告诫越狱的小白们，能尽量用作者源的就尽量用作者源的，这样更新第一时间都会知道，或者第三方正规迁移的正规中文源。 
+其它恶意的源有些小人为了个人利益恶意修改插件代码或者根据你的udid开的会员修改你的一些问题等等！尽量别去用盗版源，劫持依赖源，垃圾源！
+
+越狱地址大全
+1、Cydia官方源：apt.cydiaba.cn（推荐）
+2、pp助手源：apt.25pp.com（越狱后必装）
+3、破解软件源：repo.hackyouriphone.org（推荐）
+4、JK中文源：apt.5dpj.com（推荐）
+5、威锋源：apt.weiphone.com6（推荐）
+6、卡贴补丁源：cydia.china3gpp.com
+7、字体源：cydia.hdlulu.com
+8、3K助手：apt.3kzhushou.com
+9、叉叉助手源：apt.xxzhushou.cn
+10、雷锋源：apt.abcydia.com
+11、八木源：aptso.cn
+12、i.danstaface.net/deb 动态桌面
+13、elijahandandrew.com/repo/ 主题插件
+14、Xarold源:repo.xarold.com/(各种盗版插件)
+15、HackYouriPhone源:repo.hackyouriphone.org/(各种盗版插件)
+16、bd452 Beta Repo源:repo.bd452.com/(Upscale修改屏幕缩放；与LittleBrother功能一样)
+17、Clezz源:apt.clezz.com/(微信、QQ快捷回复*测试源)
+18、CP Digital Darkroom源:repo.cpdigitaldarkroom.com/(各种美化插件
+19、julioverne源:julio.xarold.com/(CyDown收费插件免费下；MD5值不匹配除外)
+20、KS Cydia源:apt.ksccc.cc/(锋友)
+21、ModMyi源:apt.modmyi.com/(好像自带的)
+22、repo.so源:repo.so/(原创精品汉化)
+23、HackCH源:crak.cn/repo/(说是Hack中文源，我不相信；此源很多收费插件)
+24tutuapp源:apt.tutuapp.com/(威锋兔兔助手；别的助手不可靠)
+25、xxzhushou源:apt.xxzhushou.com/(MineCraft PE 辅助很好；其他不做评论)
+26、威锋源apt.feng.com/（全球唯一中文私有源，各种盗版；哈哈）
+27、apt.so/fjy600 最新加入BioLockdown破解版插件
+28、julio.xarold.com 手势插件
+29、apt.sbwml.cn/ 免流
+30、cydia里搜Fun-multiplier For WeChat 就行了
+31、微信提示音更换 CustomNotificationSound
+32、dock透明 TransparenrDock
+33、变声器WechatPlugin
+34、HackCn源 crak.cn/repo/
+35、j c t 越狱猫 apt.yymao.net/
+36、S 中文源 apt.Sunbelife.com/
+37、威锋技术组精品源 repo.weiphone.com/
+38、老马手势源 cydia.clezz.com/
+39、拒绝收费6K2.0地址http://114nk.cn/666k/
+40、防测抢红包Fun-multiplier For WeChat
+威锋源：http://apt.so/
+威锋技术组精品源：http://repo.feng.com/
+原创精品源：http://repo.so/
+Karen‘s Pineapple Repo：http://cydia.angelxwind.net/
+PP助手源：http://apt.25pp.com/
+S 中文源：http://apt.sunbelife.com/
+威锋源：apt.weiPhone.com
+威锋精品源：repo.weiphone.com
+178源：apt.178.com
+BigBoss源 ：apt.thebigboss.org/repofiles/cydia（老板源 Cydia内置）
+xSellize源：cydia.xsellize.com
+HYI源：repo.hackyouriphone.org（国外知名破解软件源、Appsync官方源）
+多玩源：yuan.duowan.com
+电吧源：iphone.tg`bus.com/cydia
+PP助手官方源：apt.25pp.com
+八门神器官方源：apt.zntx.cc（游戏修改神器）
+烧饼源：apt.sbtools.me（烧饼修改器、加速器、内购破解）
+UU助手官方源：apt.uuhelper.com（游戏辅助）
+XX助手官方源：apt.xxzhushou.com（游戏辅助）
+手游大力玩官方源：cydia.myrepospace.com/powerwin（软件加速器）
+IAPFree官方源：repo.iapfree.org（内购破解）
+百度输入法官方源：mi.baidu.com
+搜狗输入法官方源：cydia.sogou.com
+讯飞输入法官方源：cydia.voicecloud.cn
+LocalIAPstore官方源：system.in-appstore.com/repo（内购破解）
+Activator官方源：rpetri.ch/repo（手势神器）
+Quickdo官方源：cydia.clezz.com（手势神器）
+Bitesms官方源：cydia.bitesms.com（信息功能增强）
+Bitesms测试源：test-cydia.bitesms.com（信息功能增强）
+Flex官方源：getdelta.co App（修改神器）
+82Flex源：apt.82flex.com Flex（中文云端、App修改神器）
+Plipala(熊猫源)：cydia.myrepospace.com/plipala（归属地Phonelocationlite、CCSetting）
+NCSettings官方源：cydia.myrepospace.com/jamied360（通知中心开关）
+Kuaidial官方源：kuaidial.googlecode.com/svn/deb（来电归属地、快捷拨号）
+iCleaner Pro官方源：exile90software.com/cydia（垃圾清理）
+Datastatusbar官方源：oyoung.myrepospace.com（状态栏网速计）
+Auxo官方源 ：repo.a3tweaks.com（多任务后台修改）
+Zeppelin官方源：repo.alexzielenski.com（运营商图标修改）
+vWallpaper官方源：i.danstaface.net/deb（来电视频）
+iPhonedelivery官方源：iphonedelivery.advinux.fr/cydia（短信回执）
+Notified Pro官方源：beta.notifiedapp.com（修改增强通知系统）
+Wallproxy官方源：cydia.myrepospace.com/iwyg（**）
+StatusbarFix官方源：cydia.myrepospace.com/tushaoye（修复状态栏、Bigboss也有）
+LessAD官方源：apt.ixhan.com（去广告）
+太极源：bbdown.iphonespirit.com/apt
+360官方源：m.360.cn/cydia
+金山电池医生官方源：apt.ios.ijinshan.com（Bigboss也有）
+腾讯源：www.qcydia.com（腾讯手机管家Pro）
+91源：apt.91.com
+51ipa补丁源：cydia.51ipa.com
+天天动听官方源：apt.ttpod.com
+Wifi万能钥匙官方源：wifi.sdo.com/release/iphone
+
+以上越狱源均来自网络

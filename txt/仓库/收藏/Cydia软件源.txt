@@ -1,0 +1,43 @@
+Cydia软件源。右上角编辑 左边添加
+
+正规隧道常用源如下：
+http://apt.dddjb.cn   知网少年源
+https://apt.margua.top  小麻瓜源
+https://apt.cydia.bi   Bi源(搞机源)
+https://apt.coolstar.xyz  Alice源
+http://repo.cydiabc.top   小苹果源
+http://h.933k.cn   嗨客汉化源
+https://apt.netskao.com/   哥哥源https://repo.netskao.com/   哥哥源 
+https://ibreak.yourepo.com   小姐姐源 
+https://yttxcs.com   壹筒天下源 
+http://apt.ambier.cn   野心源 
+http://apt.ss03.cn   艾锋源
+http://apt.cydiaba.cn   贴吧源
+http://apt.xbsite.cn   知网小白源 
+http://apt.25mao.com   老猫微信源
+https://lenglengyu.yourepo.com   冷冷雨源 
+http://apt.htv123.com   电话助手作者源 
+http://apt.thebigboss.org/repofiles/cydia   大老板源必装  国外源需挂v 
+http://repo.incendo.ws   手机端自签证书作者源 
+https://pulandres.me/repo/   国外p老作者源 
+https://dada.yourepo.com   骚达美化源 
+https://soda-ldz.yourepo.com   苏达微信美化源 
+http://tigisoftware.com/cydia/   文件管理器Filza作者源 
+https://c1d3r.com/repo   分屏作者源 
+http://getdelta.co   （Flex3作者源） 
+http://ib-soft.net/cydia   （iCleaner pro作者源） 
+http://rpetri.ch/repo   依赖更新最快  国外源需挂v 
+https://opa334.github.io/beta   （Safari Plus作者源） 
+http://akusio.github.io/   多任务分屏多窗口作者源 
+http://sutuplus.github.io/repo   苏兔美化源 
+https://ryleyangus.com/repo   屏蔽越狱检测Liberty lite作者源 
+https://opa334.github.io   多功能自带浏览器增强safari作者源 
+http://repo.nepeta.me   屏蔽越狱检测unsub作者源 
+http://cydia.akemi.ai   越狱状态无视证书掉签appsync unifed作者源 
+https://repo.chariz.io   必装自带源 
+
+温馨提醒：三大盗版源大家别去装，容易出问题！！！蚂蚁源，蜜蜂源，cydiaKK源。 
+劫持依赖源勿装：雷锋源，多米诺骨牌源，App越狱插件推送™。 
+垃圾源勿装：刀疤木源 在此告诫越狱的小白们，能尽量用作者源的就尽量用作者源的，这样更新第一时间都会知道，或者第三方正规迁移的正规中文源。  
+其它恶意的源有些小人为了个人利益恶意修改插件代码或者根据你的udid开的会员修改你的一些问题等等！尽量别去用盗版源，劫持依赖源，垃圾源！
+结束话题！在下告辞！！！🙏🏻🙏🏻🙏🏻

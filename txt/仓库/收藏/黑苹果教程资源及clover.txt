@@ -1,0 +1,15 @@
+1、双系统：
+参考教程地址（网上很多，找了个比较适合动手的）：
+https://blog.daliansky.net
+http://ju.outofmemory.cn/entry/369297
+
+clover下载地址：
+https://github.com/sqlsec/clover
+
+黑苹果网络资源（建议自行百度）：
+https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/
+
+
+2、U盘制作（网络资源）：
+https://www.feng.com/post/12918597
+

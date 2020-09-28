@@ -1,0 +1,20 @@
+1.解锁S/L/E权限(10.15后需要，终端输入）
+sudo mount -uw /
+输入密码
+killall Finder 
+2.开启任何来源(一些PJ软件打开显示损坏使用,终端输入)
+sudo spctl --master-disable
+3.双系统时间同步（10.15后需要.win下cmd使用）
+Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
+4.Mac安装系统提示应用程序副本已损坏,不能用来安装macOS
+问题原因：据说是2016年2月14日更新的证书后导致的问题，改到这个日期前就行了。
+解决方案：断网（不插网线） -> 打开左上角实用工具 -> 找到终端打开输入 （切记一定要先断开网络再进行下面的操作
+date 110713212015.30
+11 月、07日、13时、21分、2015年、30秒
+其实只要输入2016年2月14日这个日期之前的就行。
+如果出现键盘不能输入，请将kexts包里的ApplePS2SmartTouchPad.kext替换成VoodooPS2Controller.kext
+5.MacOS 去除系统更新提示小红标
+defaults write com.apple.systempreferences AttentionPrefBundleIDs 0
+killall Dock
+
+

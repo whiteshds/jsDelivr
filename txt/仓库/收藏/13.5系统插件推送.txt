@@ -1,0 +1,494 @@
+ios13.5 Eric插件推荐https://t.me/iOS_Eric
+
+###
+1.3DBadgeClear
+版本：1.5.1
+说明：角标清理工具
+源地址：https://repo.twickd.com/
+备注：官方兼容
+
+字母A
+1.A-Font
+版本：1.7.1
+说明：字体管理插件
+源地址：https://repo.co.kr/
+备注：官方兼容
+2.AdaptiveDarkMode
+版本：1.0.1
+说明：改进 iOS13 暗黑模式体验，可以利用感光元件自动开启或关闭暗黑模式，可以单独设置应用程序开启或关闭暗黑模式
+源地址：https://repo.packix.com/
+备注：官方兼容
+3.AirPort
+版本：2.1
+说明：AirPods 弹窗动画增强插件
+源地址：https://repo.packix.com/
+备注：官方兼容
+4.Alipay Steps
+版本：1.1
+说明：支付宝自定义步数
+源地址：http://apt.thebigboss.org/repofiles/cydia/
+备注：官方兼容
+5.Apple File Conduit "2"（iOS11+,arm64）
+版本：1.1
+说明：PC 或 Mac 端访问系统文件
+源地址：http://apt.thebigboss.org/repofiles/cydia/
+备注：官方兼容，安装即可生效，无需重启或热重启
+6.Apps Manager
+版本：1.5.1-10
+说明：备份应用程序数据
+源地址：https://tigisoftware.com/cydia/
+备注：官方兼容
+7.AppStore++
+版本：0.9.8-9
+说明：降级苹果商店应用程序
+源地址：https://cokepokes.github.io/
+备注：官方兼容，A13 无法屏蔽应用更新
+8.AppSync Unified
+版本：70.0
+说明：破解应用程序签名
+源地址：https://cydia.akemi.ai/
+备注：官方兼容
+9.AppTweak13
+版本：0.0.1
+说明：App上滑呼出选项（复制BundleID、重命名图标名称、自定义角标数量、打开应用程序数据）
+源地址：https://paxcex.github.io/
+备注：官方兼容
+10.AudioRecorder XS（iOS12/13）
+版本：3.2-47
+说明：通话录音
+源地址：https://limneos.net/repo/
+备注：官方兼容
+11.AutoUnlockX
+版本：1.0.12
+说明：面容 ID 自动解锁进入桌面
+源地址：https://sparkdev.me/
+备注：官方兼容
+12.Axon
+版本：1.0
+说明：通知归类插件（类似于 Priority Hub）
+源地址：https://repo.co.kr/
+备注：官方兼容
+
+字母B
+1.BatteryLife for iOS9/10/11/12
+版本：1.8.0～b23
+说明：电池信息查看工具
+源地址：https://repo.rbtdigital.com/
+备注：兼容
+2.BatteryPercent12
+版本：1.0.1
+说明：X 设备显示电量百分比
+源地址：http://apt.thebigboss.org/repofiles/cydia/
+备注：兼容
+3.BatteryPercentX
+版本：1.4.1-33
+说明：将电池图标替换为电量百分比
+源地址：https://sparkdev.me/
+备注：官方兼容
+4.Barmoji
+版本：2020.3
+说明：X 设备键盘下方空白区域添加 Emoji 表情
+源地址：https://repo.cpdigitaldarkroom.com/
+备注：兼容
+5.Bazzi 2
+版本：2.0.8
+说明：电池美化工具
+源地址：https://repo.dynastic.co/
+备注：部分兼容，控制中心下拉不显示电池图标
+
+6.BetterCCXI
+版本：1.6.0
+说明：自定义控制中心小组件
+源地址：https://repo.packix.com/
+备注：官方兼容
+7.BioProtect XS（iOS12/13）
+版本：4.4-3+debug
+说明：触控/面容 ID 增强
+源地址：https://limneos.net/repo/
+备注：官方兼容
+8.BottomControIX
+版本：1.3.0
+说明：从 X 设备底部上滑呼出控制中心
+源地址：http://apt.thebigboss.org/repofiles/cydia/
+备注：官方兼容
+9.ByeHomeBottomBarX
+版本：1.2
+说明：隐藏 X 设备底部横条
+源地址：http://apt.thebigboss.org/repofiles/cydia/
+备注：官方兼容
+
+字母C
+1.CallBar XS（iOS12/13）
+版本：2.3-75
+说明：通话界面状态栏化
+源地址：https://limneos.net/repo/
+备注：官方兼容
+2.Canvas（iOS13）
+版本：1.0
+说明：更换 CarPlay 墙纸
+源地址：https://repo.packix.com/
+备注：官方兼容
+3.Carrierizer
+版本：1.0.5
+说明：自定义运营商文本
+源地址：http://apt.thebigboss.org/repofiles/cydia/
+备注：官方兼容
+4.CCMusicArtwork
+版本：2.1.0
+说明：控制中心音乐模块添加专辑封面背景
+源地址：https://sparkdev.me/
+备注：官方兼容
+5.CCVPN
+版本：1.0.4
+说明：控制中心 VPN 快捷开关
+源地址：http://apt.thebigboss.org/repofiles/cydia/
+备注：官方兼容
+6.Colorbadges
+版本：1.4.4
+说明：自定义应用程序通知角标
+源地址：https://repo.packix.com/
+备注：官方兼容
+7.ColorBanners 3（iOS 13）
+版本：1.0.1
+说明：美化通知栏
+源地址：https://repo.packix.com/
+备注：官方兼容
+8.CoolCC
+版本：3.4
+说明：控制中心美化插件（深色背景、移除高亮、增加边框等）
+源地址：https://repo.packix.com/
+备注：官方兼容
+9.ConditionalWiFi4
+版本：1.0.0
+说明：针对国行设备，开启网络管理权限
+源地址：https://repo.packix.com/
+备注：兼容，A12/13 设置不显示
+10.CrackTool4（iOS12）
+版本：4.0～beta9c
+说明：破解收费插件
+源地址：https://julio.hackyouriphone.org/
+备注：兼容
+11.CyDown
+版本：7.0.6
+说明：Cydia增强插件，增加下载器、破解收费插件、美化界面等功能
+源地址：https://julio.hackyouriphone.org/
+备注：官方兼容 
+12.Cylinder
+版本：1.1
+说明：桌面切换特效，支持CarPlay
+源地址：http://apt.thebigboss.org/repofiles/cydia/
+备注：官方兼容
+字母D-K
+1.DataMeter（×××）
+版本：1.4-3
+说明：流量记录仪，可添加状态栏网速
+源地址：http://apt.thebigboss.org/repofiles/cydia/
+备注：不兼容，安装完能正常使用，注销后会无限重启！
+2.EasyAppOrientation
+版本：0.0.7
+说明：锁定应用程序方向
+源地址：http://m156nrkvv.g2.xrea.com/repo/
+备注：兼容
+
+3.ECG Enabler
+版本：1.1
+说明：国行 Apple Watch 开启心电图功能
+源地址：http://apt.thebigboss.org/repofiles/cydia/
+备注：官方兼容
+4.Filza File Manager 64-bit
+版本：3.7.4-12
+说明：文件管理器
+源地址：https://tigisoftware.com/cydia/
+备注：官方兼容
+
+5.FiveDock13
+版本：1.0
+说明：允许 Dock 栏可放置5个图标
+源地址：https://repo.packix.com/
+备注：官方兼容
+6.Flex 3 Beta
+版本：3~Beta86
+说明：强大的系统调整插件
+源地址：https://getdelta.co/
+备注：兼容
+7.FloatingDockPlus13
+版本：1.1.5
+说明：iPad 风格 Dock 栏
+源地址：https://repo.packix.com/
+备注：官方兼容
+8.Gyration
+版本：1.0.8
+说明：强制旋转屏幕（iPad 福音）
+源地址：http://apt.thebigboss.org/repofiles/cydia/
+备注：官方兼容，部分应用会出现问题，如京东、苏宁易购等。
+9.HideStatusBarItemsPro
+版本：1.0.0
+说明：隐藏状态栏元素
+源地址：https://repo.packix.com/
+备注：官方兼容
+10.hooktiktok
+版本：0.2
+说明：Tiktok 实现地区或国家选择，解除播放限制、支持视频下载。
+源地址：http://apt.thebigboss.org/repofiles/cydia/
+备注：官方兼容
+11.iCleaner Pro
+版本：7.8.0
+说明：系统优化软件
+源地址：https://ib-soft.net/cydia/
+备注：官方兼容 
+12.iKeywi 4（iOS11~13）
+版本：4.1.6
+说明：自定义键盘
+源地址：https://repo.packix.com/
+备注：官方兼容
+13.Installer
+版本：5.0.2.3
+说明：第三方包管理器
+源地址：https://apptapp.me/repo/
+备注：官方兼容
+
+14.KillBackground13
+版本：1.0.3
+说明：一键清理后台
+源地址：https://repo.packix.com/
+备注：官方兼容
+15.KillX Pro
+版本：2.1.2
+说明：一键清理后台
+源地址：https://repo.packix.com/
+备注：官方兼容
+字母L-N
+1.LatchKey
+版本：2.1.2
+说明：自定义 X 设备锁屏图标
+源地址：https://repo.daus.ch/
+备注：官方兼容
+2.LetMeKnow
+版本：1.4.2
+说明：开启来电和去电接通震动
+源地址：https://repo.packix.com/
+备注：官方兼容
+
+3.Liberty Lite（Beta）
+版本：0.2.12
+说明：屏蔽越狱检测
+源地址：https://ryleyangus.com/repo/
+备注：部分兼容，屏蔽越狱应用无法打开系统相册
+
+4.LocallAPStore13
+版本：0.0.1
+说明：应用程序内购破解
+源地址：https://paxcex.github.io/
+备注：官方兼容
+5.LockWidgets
+版本：2.0
+说明：将小组件添加到锁屏界面
+源地址：https://repo.dynastic.co/
+备注：官方兼容
+
+6.NFCWriter XS
+版本：3.2-37-debug
+说明：开启原生 NFC 功能
+源地址：https://limneos.net/repo/
+备注：官方兼容
+7.Maple 2
+版本：1.2
+说明：锁屏界面充电动画
+源地址：https://repo.packix.com/
+备注：官方兼容
+8.NetworkDisabler
+版本：1.0.0
+说明：应用程序及越狱插件联网管理
+源地址：https://cydia.ichitaso.com/
+备注：兼容
+9.No3DLines
+版本：1.2.1-1
+说明：隐藏 3DTouch 界面的分割线
+源地址：https://repo.packix.com/
+备注：官方兼容
+10.NtSpeed
+版本：0.2~beta7
+说明：网速悬浮窗
+源地址：https://julioverne.github.io/
+备注：兼容
+字母P-R
+1.PerfectFit
+版本：1.0.2
+说明：强制应用程序全屏
+源地址：http://apt.thebigboss.org/repofiles/cydia/
+备注：兼容
+2.PencilChargingIndicator
+版本：1.2~b7
+说明：Apple Pencil 样式的充电动画
+源地址：https://shiftcmdk.github.io/repo/
+备注：官方兼容
+3.PowerSelector（iOS 11 to 13）
+版本：1.2.6
+说明：增强电源选项，增加关机、重启、热重启、进入安全模式、注销、重建图标缓存、锁定屏幕功能
+源地址：http://apt.thebigboss.org/repofiles/cydia/
+备注：官方兼容
+4.RealCC
+版本：1.0.2
+说明：彻底关闭 WiFi 和蓝牙
+源地址：http://apt.thebigboss.org/repofiles/cydia/
+备注：兼容
+5.ReProvision
+版本：0.5~EOL
+说明：自签工具
+源地址：https://repo.incendo.ws/
+备注：官方兼容，重新复活，正常使用。
+
+6.Runaway
+版本：0.0.2
+说明：网速显示，位置左上角时间下方
+源地址：https://repo.twickd.com/
+备注：官方兼容，个人认为这款比 Ntspeed 美观，此项目为开源项目，希望后续能够新增显示位置选择。
+字母S
+1.Safari Plus/Safari Plus（Cepheiless）
+版本：1.7.10-2
+说明：Safari 浏览器增强插件
+源地址：https://opa334.github.io/
+备注：官方兼容
+2.Saily Store
+版本：0.6-b1122
+说明：第三方包管理器
+源地址：https://lakrowo.gitee.io/repo/
+备注：兼容
+3.Shadow
+版本：2.0.20
+说明：屏蔽越狱检测
+源地址：https://ios.jjolano.me/
+备注：兼容，配合 Packix 源的 Shadow Application 可以直接添加桌面快捷方式
+4.shuffle
+版本：1.1.0 
+说明：自定义设置界面
+源地址：https://creaturecoding.com/repo/
+备注：官方兼容
+5.Snapper 2
+版本：2.3.1
+说明：截图增强插件
+源地址：https://repo.packix.com/
+备注：官方兼容
+6.SnowBoard
+版本：1.2.87～Beta2
+说明：主题管理插件
+源地址：https://sparkdev.me/
+备注：官方兼容，配合 SnowBoard Application 可以直接添加桌面快捷方式 
+7.Sonus13
+版本：1.0.5
+说明：自定义音量调节界面
+源地址：https://repo.packix.com/
+备注：官方兼容
+8.Spotlife
+版本：1.1a
+说明：Spotify 增强插件，破解 Premium 的部分功能
+源地址：https://julioverne.github.io/
+备注：官方兼容
+8.Spotlightless11
+版本：1.1.3
+说明：禁用桌面下拉搜索功能
+源地址：http://apt.thebigboss.org/repofiles/cydia/
+备注：官方兼容
+9.StoreSwitcher 2
+版本：1.0.3
+说明：应用商店多账号切换
+源地址：https://subdiox.com/cyida/
+备注：兼容
+10.SwipeForMore
+版本：1.1.10
+说明：通过滑动增强 Cydia 插件安装
+源地址：https://poomsmart.github.io/repo/
+备注：兼容
+字母U-Z
+1.Ultrasound
+版本：1.2.13
+说明：音量显示界面美化
+源地址：https://repo.dynastic.co/
+备注：官方兼容，iOS 13 出来之前有一段时间免费过，更新版本后变成收费插件了。
+2.Vesta
+版本：1.0.9
+说明：应用抽屉（类似于 Android 原生）
+源地址：https://sparkdev.me/
+备注：官方兼容
+3.Zebra
+版本：1.0.7
+说明：插件商店
+源地址：https://getzebra.com/repo/
+备注：官方兼容
+4.Zenith
+版本：1.2.5
+说明：Apex 样式图标增强
+源地址：https://repo.packix.com/
+备注：官方兼容
+中文插件
+1.京东优惠券
+版本：0.1-9
+说明：支持优惠券搜索、查询历史价格
+源地址：https://apt.25mao.com/
+备注：官方兼容
+2.淘宝优惠券
+版本：2.0.5
+说明：支持优惠券搜索、查询历史价格
+源地址：https://apt.25mao.com/
+备注：官方兼容
+3.去掉二次通知
+版本：0.1-1
+说明：去除烦人的二次开启通知提示
+源地址：https://apt.25mao.com/
+备注：官方兼容
+
+iOS 13插件推荐
+插件名：Filza
+版本：3.7.0-18
+作为越狱后必装的插件之一，Filza 是一款非常强大的文件管理器，可以使用它对系统根目录下的所有文件以及文件夹进行复制、移动、删除、重命名等操作。除此之外，常见文件格式的查看、解压，IPA 文件的直接安装，越狱插件的直接安装，甚至内置命令行操作工具。可以说 Filza 是一款不折不扣的效率神器同时更是一款关键时刻可以快速解决越狱问题的“救命神器”。
+目前最新版 Filza 文件管理器可以在 iOS 13 上正常运行。
+
+插件名：iCleaner Pro
+版本：7.7.5
+同样是一款老牌的越狱必装插件，iCleaner Pro 的主要作用是帮助越狱设备清理设备上的垃圾文件，包括越狱过程中产生的系统垃圾。你可以对清理对象进行选择，甚至可以单独屏蔽某些不想清除的应用，总之如果你的设备容量总是不够用，装它就对了。
+
+除了清理功能之外，iCleaner Pro 还有一项非常实用的功能 - 禁用单个插件。如果你在越狱过程中经常出现一些类似于软件闪退、系统卡死的情况，却又不知道是因为哪个插件引起的，那就可以使用 iCleaner Pro 的插件禁用功能对可能有问题的插件进行逐个禁用排查。
+
+目前最新版 iCleaner Pro 可以在 iOS 13 上正常运行。
+插件名：Liberty Lite
+
+版本：0.2.12
+每次出越狱插件相关文章的时候，都会有人留言说越狱后支付宝和微信的指纹/面容支付不能用了，Liberty Lite 是一款可以屏蔽软件对于设备越狱状态检测的插件，类似于微信支付宝的指纹/面容支付都能搞定。需要注意的是，插件不是万能的，并不是所有检测它都能搞定，千万不要安装游戏外挂，然后拿它去屏蔽对应的游戏，千万千万！
+
+目前最新版 Liberty Lite 可以在iOS 13上正常运行。
+插件名：PowerSelector
+版本：1.2.1
+PowerSelector 是一款可以快速注销、重启、关机、进入安全模式、清除桌面图标缓存的工具，非常好用，特别 Respring 对应的注销功能，遇到软件卡死等情况的时候，又不想重启重新越狱，就可以注销来尝试解决。
+
+目前最新版 PowerSelector 可以在 iOS 13 上正常运行。
+插件名：SnowBoard
+版本：1.2.52～B1
+SnowBoard 是一款强大的主题美化功能，可以对手机的软件图标、状态栏、设置界面等 UI 进行修改，且操作简单。需要注意的是，想要实现系统各个界面的 UI 修改需要安装对应的布丁，建议有需要的前往其官方源一并安装。
+
+源地址：https://sparkdev.me/
+因为系统升级的原因，部分在1 1、12 系统上可以使用的状态栏挂载主题、设置界面UI可能在iOS13上无法使用。
+插件名：AppStore++
+版本：0.9.7
+安装完此插件后，在 App Store 应用商城内找到自己想要升降级的软件，长按下载按钮，出现三个选项，从上到下依次为「升级/降级」、「根据版本号升降级」、「屏蔽升级」。
+根据自己的需求选择对应的功能，关于该插件的详细的使用功能，可以看我之前的这篇文章：
+iOS 应用降级插件，支持任意版本升降
+目前最新版  AppStore++ 可以在iOS 13 上正常运行。
+
+插件名：CyDown
+版本：7.0.1
+有Cydia的设备上就应该安装cydown，插件最大的好处在于安装插件的同时可以将该插件的安装包保留在手机上，并支持快速分享安装包。同时也支持插件的备份和还原。
+目前最新版 CyDown 可以在iOS 13上正常运行。
+除了上述插件之外，经网友测试可以正常运行的插件还有以下：
+BetterCCXI -控制中心组件
+Carrierizer - 修改运营商文子
+Colorbadges - 角标美化
+CrackTool4 - 破解器
+LetMeKnow - 来去电震动
+PerfectFit - 应用强制全屏
+shuffle - 设置界面美化
+SwipeForMore - Cydia滑动增强
+ReProvision - 续签插件
+
+
+除此之外，所有针对App的增强插件都可以正常使用。
+

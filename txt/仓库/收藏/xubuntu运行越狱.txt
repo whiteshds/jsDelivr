@@ -1,0 +1,17 @@
+xubuntu系统搭建：
+1.找大于4GB可用内存的盘，比如说我的F盘
+2.把xubuntu.zip放在（F盘）可用内存64GB的
+3.解压xubuntu.zip
+4.把xubuntu-18.04.2-desktop-amd64.iso 放在F盘根目录
+5.打开ra1nlinux文件-允行：wubi.exe
+6.选择F盘（可用内存）再选择5GB，再输入登录密码，再点安装
+7.弹出重启后，等待搭建Linux完成
+
+在xubuntu系统运行越狱工具
+1.在桌面鼠标右键，打开终端
+2.输入：sudo -i 回车
+3.输入：sudo apt-get 回车
+4.输入：echo "deb https://assets.checkra.in/debian /" | sudo tee -a /etc/apt/sources.list 回车
+5.输入：sudo apt-key adv --fetch-keys https://assets.checkra.in/debian/archive.key
+6.输入：sudo apt update
+7.把checkra1n linux 拉进入运行即可。

@@ -1,0 +1,25 @@
+解决卡死办法为：
+1. 从cydia下载filza
+2. 打开filza，导航到usr/libexec，找到一个名为videosubscriptionsd的进程文件，修改后缀为.bak
+3. 重启手机 重新越狱
+此方法不一定有效
+修改前请备份原生文件！！
+产生的影响：iTunes Store无法下载音乐（不影响国内用户）
+此贴还有隔夜重启的解决办法，以及手机越狱后
+
+
+
+
+自主过热及电池电量消耗过快的解决办法
+解决发热的方法原帖写着可以安装CloseCam，然后下载cocoTop查看backboardd这个进程占用大量CPU内存，如果是，请用filza找到 System/Library/LaunchDeamons下的com.apple.backboardd.plist。
+点击右边蓝色圆圈的i，然后将其中的KeepAlive修改为No。接着修改No and RunAtLoad 为No，保存并重启重新越狱。
+警告，进行操作前请进行原文件备份
+收藏于昨天
+
+
+
+
+
+解决注销问题
+
+To solve your overnight reboot issues on Electra, with Filza, go into /System/Library/LaunchDaemons and look for this file: com.apple.jetsamproperties.D22.plist. This is for iPhone X on other devices the Name of the Jetslammed number is for each Device other. Click on it - then click on.. root, version4, system, override, global... in that order. Then finally click on the little ‘ i ‘ to the right of “UserReclaimableLimit”. Then click on whatever number is in Value and change to 50. Then click on BACK, then SAVE, then DONE (at top)... then repeat these exact steps for the file right underneath called com.apple.jetsamproperties.D221.plist.. Then reboot and reJB. Done! No more overnight reboots.

@@ -1,0 +1,21 @@
+作者源
+https://getzbra.com/repo/ (斑马官方源)
+https://repo.incendo.ws/ (ReProvision 作者源)
+http://tigisoftware.com/cydia/ （Filza 文件管理器作者源）
+http://ib-soft.net/cydia/（iCleaner Pro 作者源）
+https://xsf1re.github.io/repo/ (Liberty 屏蔽越狱和禁止注入作者源)
+http://cydia.akemi.ai/（AppSync Unified 作者源）
+http://getdelta.co/ （Flex 3 作者源）
+http://cokepokes.github.io/ （AppStore++ 应用降级作者源）
+http://julio.hackyouriphone.org/（CyDown CrackTool4 作者源）
+http://limneos.net/repo/ （AudioRecorder XS 录屏声音内录作者源）
+http://apt.niceios.com/ （NiceBarX 作者源）
+http://apt.htv123.com/ （电话助手 作者源）
+http://creaturesurvive.github.io/（shuffle 更好用的设置归类 作者源）
+http://repo.supercharge.app/ (Supercharge 作者源)
+https://c1d3r.com/repo/ (PullOVer Pro 侧边分屏 作者源)
+http://apt.autotouch.net/ (AutoTouch 录制回放脚本 作者源)
+https://cokepokes.github.io/ (CrashReporter 崩溃报告器 作者源)
+https://repo.daus.ch/ (Sylph 锁屏播放音乐控制界面自定义 作者源)
+http://cydia.ichitaso.com/ (OTADisabler 屏蔽系统更新 作者源)
+https://akasio.github.io (MilkyWay+Backgrounder Action 分屏和真实后台 作者源)

@@ -1,0 +1,12 @@
+flex3官源地址
+https://getdelta.co/
+
+
+在chimera越狱的patches.plist补丁路径
+/var/mobile/Library/Application Support/Flex3
+
+在unc0ver越狱的patches.plist补丁路径
+/var/mobile/Documents/Flex
+
+如是删除补丁发现删了以上路径还有效看看以下路径名为Flex3Patches.plist的文件
+/var/mobile/Library/UserConfigurationProfiles/PublicInfo/

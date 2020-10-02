@@ -2259,7 +2259,7 @@ blockquote footer cite:before {
 }
 #vcomment textarea {
   font-size: 0.7rem;
-  background: url("../images/comment_bg.png") 100% 100% no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/whiteshds/jsDelivr@master/txt/%E4%BB%93%E5%BA%93/%E5%9B%BE%E5%BA%8A/%E5%8D%9A%E6%96%87%E9%85%8D%E5%9B%BE/005.jpg") 100% 100% no-repeat;
 }
 #vcomment .info {
   display: none;
@@ -2428,7 +2428,7 @@ blockquote footer cite:before {
 #footer {
   position: relative;
   margin-top: 1rem;
-  background: url("../images/footbar.png");
+  background: url("https://cdn.jsdelivr.net/gh/whiteshds/jsDelivr@master/txt/仓库/图床/博文友链/js/images/footbar.png");
   background-attachment: local;
   background-position: bottom;
   -webkit-background-size: cover;

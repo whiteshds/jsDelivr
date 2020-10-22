@@ -1,0 +1,546 @@
+/*! HTML5 Boilerplate v5.2.0 | MIT License | https://html5boilerplate.com/ */
+
+
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+html {
+	color: #222;
+	font-size: 1em;
+	line-height: 1.4;
+}
+
+
+/*
+ * Remove text-shadow in selection highlight:
+ * https://twitter.com/miketaylr/status/12228805301
+ *
+ * These selection rule sets have to be separate.
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+	background: #b3d4fc;
+	text-shadow: none;
+}
+
+::selection {
+	background: #b3d4fc;
+	text-shadow: none;
+}
+
+
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid #ccc;
+	margin: 1em 0;
+	padding: 0;
+}
+
+
+/*
+ * Remove the gap between audio, canvas, iframes,
+ * images, videos and the bottom of their containers:
+ * https://github.com/h5bp/html5-boilerplate/issues/440
+ */
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+	vertical-align: middle;
+}
+
+
+/*
+ * Remove default fieldset styles.
+ */
+
+fieldset {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+	resize: vertical;
+}
+
+
+/* ==========================================================================
+   Browser Upgrade Prompt
+   ========================================================================== */
+
+.browserupgrade {
+	margin: 0.2em 0;
+	background: #ccc;
+	color: #000;
+	padding: 0.2em 0;
+}
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+
+/*
+ * Hide visually and from screen readers:
+ */
+
+.hidden {
+	display: none !important;
+}
+
+
+/*
+ * Hide only visually, but have it available for screen readers:
+ * http://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+ */
+
+.visuallyhidden {
+	border: 0;
+	clip: rect(0 0 0 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+}
+
+
+/*
+ * Extends the .visuallyhidden class to allow the element
+ * to be focusable when navigated to via the keyboard:
+ * https://www.drupal.org/node/897638
+ */
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+	clip: auto;
+	height: auto;
+	margin: 0;
+	overflow: visible;
+	position: static;
+	width: auto;
+}
+
+
+/*
+ * Hide visually and from screen readers, but maintain layout
+ */
+
+.invisible {
+	visibility: hidden;
+}
+
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+.clearfix:before,
+.clearfix:after {
+	content: " ";
+	/* 1 */
+	display: table;
+	/* 2 */
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+	/* Style adjustments for viewports that meet the condition */
+}
+
+@media print,
+(-webkit-min-device-pixel-ratio: 1.25),
+(min-resolution: 1.25dppx),
+(min-resolution: 120dpi) {
+	/* Style adjustments for high resolution devices */
+}
+
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid the additional HTTP request:
+   http://www.phpied.com/delay-loading-your-print-css/
+   ========================================================================== */
+
+@media print {
+	*,
+	*:before,
+	*:after {
+		background: transparent !important;
+		color: #000 !important;
+		/* Black prints faster:
+                                   http://www.sanbeiji.com/archives/953 */
+		box-shadow: none !important;
+		text-shadow: none !important;
+	}
+	a,
+	a:visited {
+		text-decoration: underline;
+	}
+	a[href]:after {
+		content: " (" attr(href) ")";
+	}
+	abbr[title]:after {
+		content: " (" attr(title) ")";
+	}
+	/*
+     * Don't show links that are fragment identifiers,
+     * or use the `javascript:` pseudo protocol
+     */
+	a[href^="#"]:after,
+	a[href^="javascript:"]:after {
+		content: "";
+	}
+	pre,
+	blockquote {
+		border: 1px solid #999;
+		page-break-inside: avoid;
+	}
+	/*
+     * Printing Tables:
+     * http://css-discuss.incutio.com/wiki/Printing_Tables
+     */
+	thead {
+		display: table-header-group;
+	}
+	tr,
+	img {
+		page-break-inside: avoid;
+	}
+	img {
+		max-width: 100% !important;
+	}
+}
+
+
+/*=====================================================================
+	Helpar css
+=======================================================================*/
+
+.section_padding {
+	padding: 100px 0;
+}
+
+
+/*=====================================================================
+	css for Project area
+=======================================================================*/
+
+.project_area {
+	padding-bottom: 80px;
+	text-align: center;
+}
+
+.prject_area_title {
+	margin-bottom: 40px;
+}
+
+.prject_area_title h2 {
+	color: #202020;
+	font-size: 30px;
+	line-height: 40px;
+	font-family: 'asapregular';
+	margin-top: 0;
+	margin-bottom: 25px;
+}
+
+.prject_area_title h2 span {
+	font-family: 'asapbold';
+	color: #ffc1c1;
+}
+
+.prject_area_title p {
+	color: #666666;
+	font-family: "karlaregular";
+	font-size: 16px;
+	line-height: 29px;
+	margin: 0 15% 15px;
+}
+
+.single_project {
+	margin-bottom: 20px;
+}
+
+.work_img {
+	position: relative;
+}
+
+.project_overlay {
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	background: #ffc1c1 none repeat scroll 0 0;
+	transform: scale(0);
+	transition-duration: 0.3s;
+	transition-property: transform;
+	transition-timing-function: ease-out;
+	opacity: 0.9;
+}
+
+.project_overlay a {
+	border: 2px solid #fff;
+	border-radius: 5px;
+	color: #fff;
+	font-family: "asapregular";
+	font-size: 16px;
+	left: 27%;
+	padding: 15px 40px;
+	position: absolute;
+	top: 40%;
+}
+
+.project_overlay .button {
+	border: 3px solid #fff;
+	color: #fff;
+	display: inline-block;
+	font-weight: 700;
+	left: 0;
+	letter-spacing: 1px;
+	outline: medium none;
+	overflow: hidden;
+	padding: 15px 40px;
+	position: relative;
+	text-transform: uppercase;
+	top: 40%;
+	transition: all 0.3s ease 0s;
+	text-decoration: none;
+}
+
+.project_overlay .button:after {
+	content: '';
+	position: absolute;
+	z-index: -1;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	border: 3px solid #fff;
+	color: #fff;
+	width: 100%;
+	height: 0;
+	top: 50%;
+	left: 50%;
+	background: #fff;
+	opacity: 0;
+	-webkit-transform: translateX(-50%) translateY(-50%) rotate(45deg);
+	-moz-transform: translateX(-50%) translateY(-50%) rotate(45deg);
+	-ms-transform: translateX(-50%) translateY(-50%) rotate(45deg);
+	transform: translateX(-50%) translateY(-50%) rotate(45deg);
+}
+
+.project_overlay .button:hover,
+.button:active {
+	color: #ffc1c;
+	text-decoration: none;
+}
+
+.project_overlay .button:hover:after {
+	height: 225%;
+	opacity: 1;
+}
+
+.project_overlay .button:active:after {
+	height: 225%;
+	opacity: 1;
+}
+
+.single_project img {
+	width: 100%;
+	transition: all 1.2s linear;
+}
+
+.single_project h3 {
+	background: #eeeeee none repeat scroll 0 0;
+	border-radius: 0 0 10px 10px;
+	color: #202020;
+	font-family: "asapregular";
+	font-size: 20px;
+	margin: 0;
+	padding: 25px 0;
+}
+
+.single_project:hover div.project_overlay {
+	transform: scale(1);
+}
+
+
+/* Banner */
+
+#banner {
+	background-attachment: fixed;
+	background-color: #272833;
+	background-image: url("https://i.loli.net/2020/10/09/6eAiZcRhHvJul9b.jpg");
+	background-position: center center;
+	background-size: cover;
+	box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
+	min-height: 100vh;
+	position: relative;
+	text-align: center;
+	z-index: 21;
+}
+
+#banner:before {
+	content: '';
+	display: inline-block;
+	height: 100vh;
+	vertical-align: middle;
+	width: 1%;
+}
+
+#banner:after {
+	background-image: -moz-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("../images/overlay.png");
+	;
+	background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.75), rgba(23, 24, 32, 0.65)), url("../images/overlay.png");
+	;
+	background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("../images/overlay.png");
+	;
+	background-image: linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("../images/overlay.png");
+	;
+	content: '';
+	display: block;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+#banner .content {
+	display: inline-block;
+	margin-right: 1%;
+	max-width: 95%;
+	padding: 6em;
+	position: relative;
+	text-align: right;
+	vertical-align: middle;
+	z-index: 1;
+}
+
+#banner .content header {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#banner .content header h2 {
+	font-size: 2.5em;
+	margin: 0;
+}
+
+#banner .content header p {
+	margin: 0.5em 0 0 0;
+	top: 0;
+}
+
+#banner .content .image {
+	border-radius: 100%;
+	display: inline-block;
+	height: 18em;
+	margin-left: 3em;
+	vertical-align: middle;
+	width: 18em;
+}
+
+#banner .content .image img {
+	border-radius: 100%;
+	display: block;
+	width: 100%;
+}
+
+body.is-touch #banner {
+	background-attachment: scroll;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: "Ubuntu", sans-serif;
+	font-size: 100%;
+	background: #f8f8f8;
+}
+
+a {
+	text-decoration: none;
+	color: #666;
+}
+
+a:hover {
+	color: #999;
+}
+
+p {
+	line-height: 2em;
+	margin: 0 0 20px;
+	text-align: center;
+}
+
+.wrap {
+	max-width: 600px;
+	margin: 150px auto;
+}
+
+.type-wrap {
+	margin: 10px auto;
+	padding: 20px;
+	background: #f0f0f0;
+	border-radius: 5px;
+	border: #CCC 1px solid;
+}
+
+.links {
+	margin: 20px 0;
+	font-size: 0.75em;
+	text-align: center;
+}
